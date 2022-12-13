@@ -26,3 +26,4 @@ Here are some ideas to get you started:
 - personal website: https://kaseyvee.github.io/website/
 - linkedin: https://www.linkedin.com/in/kasey-valdez/
 - resume: https://resume.creddle.io/resume/hje8hgzfv4a
+- codewars: https://www.codewars.com/users/kethnal
