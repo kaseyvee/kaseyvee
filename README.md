@@ -17,8 +17,9 @@ Here are some ideas to get you started:
 
 ## in the works:
 
-- currently reviewing: python 🐍
-
+- reviewing python 🐍
+- learning typescript 📄
+- update portfolio website with works in progress 🛠
 
 ## don't be shy stalk me 🌝:
 
