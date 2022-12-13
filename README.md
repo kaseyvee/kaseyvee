@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 ![my lil github banner](https://i.imgur.com/QMUUOIs.png)
 
-## in the works of my developer journey:
+## in the works:
 
-- currently reviewing what got me into coding in the first place: python 🐍
+- currently reviewing: python 🐍
