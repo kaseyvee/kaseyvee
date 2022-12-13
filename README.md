@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 
 ## don't be shy stalk me 🌝:
 
-personal website: https://kaseyvee.github.io/website/
-linkedin: https://www.linkedin.com/in/kasey-valdez/
-resume: https://resume.creddle.io/resume/hje8hgzfv4a
+- personal website: https://kaseyvee.github.io/website/
+- linkedin: https://www.linkedin.com/in/kasey-valdez/
+- resume: https://resume.creddle.io/resume/hje8hgzfv4a
