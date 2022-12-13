@@ -18,3 +18,10 @@ Here are some ideas to get you started:
 ## in the works:
 
 - currently reviewing: python 🐍
+
+
+## don't be shy stalk me 🌝:
+
+personal website: https://kaseyvee.github.io/website/
+linkedin: https://www.linkedin.com/in/kasey-valdez/
+resume: https://resume.creddle.io/resume/hje8hgzfv4a
