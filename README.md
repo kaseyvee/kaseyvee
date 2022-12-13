@@ -1,4 +1,4 @@
-### Hi there 👋
+### welcome 👋🕴
 
 <!--
 **kaseyvee/kaseyvee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![my lil github banner](https://i.imgur.com/QMUUOIs.png)
+
+## in the works of my developer journey:
+
+- currently reviewing what got me into coding in the first place: python 🐍
