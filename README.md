@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 - reviewing python 🐍
 - learning typescript 📄
 - update portfolio website with works in progress 🛠
+- brandMe.io: a template generator to provide users with an eye-catching photo/banner with recognizable, classic, and iconic brand designs
+  - look into the legality of this LOL
 
 ## don't be shy stalk me 🌝:
 
