@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - reviewing python 🐍
 - learning typescript 📄
 - update portfolio website with works in progress 🛠
-- me.brand(): a template generator to provide users a medium to give a quick blurb about themselves with an eye-catching photo/banner using recognizable, classic, and iconic brand designs (just like my github readme banner)
+- [me.brand()](https://github.com/kaseyvee/me-brand): a template generator to provide users a medium to give a quick blurb about themselves with an eye-catching photo/banner using recognizable, classic, and iconic brand designs (just like my github readme banner)
   - must look into the legality of this LOL
 
 ## don't be shy stalk me 🌝:
