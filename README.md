@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - reviewing python 🐍
 - learning typescript 📄
-- update portfolio website with works in progress 🛠
+- [akmuo](https://github.com/kaseyvee/akmuo): an e-commerce application for a vancouver based jewelry store
 - [me.brand()](https://github.com/kaseyvee/me-brand): a template generator to provide users a medium to give a quick blurb about themselves with an eye-catching photo/banner using recognizable, classic, and iconic brand designs (just like my github readme banner)
 - [crocodile-tiers](https://github.com/kaseyvee/crocodile-tiers): a full-stack web application for users to create and share tier lists
   - collab with [nicohsfu](https://github.com/nicohsfu)
