@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 
 ![my lil github banner](https://i.imgur.com/QMUUOIs.png)
 
+	![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
 ## in the works:
 
 - reviewing data structures and algorithms
