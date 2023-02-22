@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 ## in the works:
 
 - reviewing data structures and algorithms in javascript
-- [akmuo](https://github.com/kaseyvee/akmuo): an e-commerce application for a vancouver based jewelry store
 - [untitled restaurant recommendations app](https://github.com/kaseyvee/my-restaurant-list): an app for sharing your personal restaurant and menu item favourites for your peers
 - [crocodile-tiers](https://github.com/kaseyvee/crocodile-tiers): a full-stack web application for users to create and share tier lists
   - pair-programmed collab with [nicohsfu](https://github.com/nicohsfu)
