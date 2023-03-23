@@ -31,5 +31,5 @@ Here are some ideas to get you started:
 - personal website: https://kaseyvee.com/
 - linkedin: https://www.linkedin.com/in/kasey-valdez/
 - resume: https://resume.creddle.io/resume/hje8hgzfv4a
-- frontend mentor: https://kaseyvee.github.io/results-summary-css-practice/
+- frontend mentor: https://www.frontendmentor.io/profile/kaseyvee
 - codewars: https://www.codewars.com/users/kethnal
