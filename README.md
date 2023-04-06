@@ -22,10 +22,7 @@ Here are some ideas to get you started:
 ## in the works:
 
 - [district eleven website redesign](https://github.com/wagabooga/D11): a redesign for local vancouver restaurant, district eleven, implementing contentful as a cms
-- [untitled restaurant recommendations app](https://github.com/kaseyvee/my-restaurant-list): an app for sharing your personal restaurant and menu item favourites for your peers
-- [crocodile-tiers](https://github.com/kaseyvee/crocodile-tiers): a full-stack web application for users to create and share tier lists
-  - pair-programmed collab with [nicohsfu](https://github.com/nicohsfu)
-
+- [frontend mentor challenges](https://github.com/kaseyvee/frontend-mentor-challenges)
 ## don't be shy stalk me 🌝:
 
 - personal website: https://kaseyvee.com/
