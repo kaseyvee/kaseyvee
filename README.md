@@ -23,6 +23,11 @@ Here are some ideas to get you started:
 
 - [district eleven website redesign](https://github.com/wagabooga/D11): a redesign for local vancouver restaurant, district eleven, implementing contentful as a cms
 - [frontend mentor challenges](https://github.com/kaseyvee/frontend-mentor-challenges)
+
+## currently focused on:
+
+- web accessibility 🌎
+
 ## don't be shy stalk me 🌝:
 
 - personal website: https://kaseyvee.com/
