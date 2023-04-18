@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ## don't be shy stalk me 🌝:
 
 - personal website: https://kaseyvee.com/
-- linkedin: https://www.linkedin.com/in/kasey-valdez/
+- linkedin: https://www.linkedin.com/in/kaseyvee/
 - resume: https://resume.creddle.io/resume/hje8hgzfv4a
 - frontend mentor: https://www.frontendmentor.io/profile/kaseyvee
 - codewars: https://www.codewars.com/users/kethnal
