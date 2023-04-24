@@ -34,4 +34,3 @@ Here are some ideas to get you started:
 - linkedin: https://www.linkedin.com/in/kaseyvee/
 - resume: https://resume.creddle.io/resume/hje8hgzfv4a
 - frontend mentor: https://www.frontendmentor.io/profile/kaseyvee
-- codewars: https://www.codewars.com/users/kethnal
