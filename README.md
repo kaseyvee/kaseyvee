@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ## in the works:
 
 - [district eleven website redesign](https://github.com/wagabooga/D11): a redesign for local vancouver restaurant, district eleven, implementing contentful as a cms
-- [photosnap: a frontend mentor challenge](https://github.com/kaseyvee/photosnap)
+- [photosnap - a frontend mentor challenge](https://github.com/kaseyvee/photosnap): a multipage marketing website for a photosharing app
 
 ## currently focused on:
 
