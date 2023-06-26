@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 ## in the works:
 
 - [district eleven website redesign](https://github.com/wagabooga/D11): a redesign for local vancouver restaurant, district eleven, implementing contentful as a cms
-- [audiophile - a frontend mentor challenge](https://github.com/kaseyvee/audiophile): an e-commerce platform for audio-based electronics
 
 ## currently focused on:
 
