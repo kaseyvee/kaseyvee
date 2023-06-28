@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 
 ## currently focused on:
 
+- redux 🛠
 - web accessibility 🌎
 
 ## don't be shy stalk me 🌝:
