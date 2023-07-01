@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 ## in the works:
 
 - [district eleven nextjs conversion](https://github.com/kaseyvee/district-eleven): convert from react to next.js
-
 - [district eleven website redesign](https://github.com/kaseyvee/D11): a redesign for local vancouver restaurant, district eleven, implementing contentful as a cms
 
 ## currently focused on:
