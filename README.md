@@ -19,15 +19,18 @@ Here are some ideas to get you started:
 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)	![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-## in the works:
+## in the works 🛠:
 
-- [district eleven nextjs conversion](https://github.com/kaseyvee/district-eleven): convert from react to next.js
-- [district eleven website redesign](https://github.com/kaseyvee/D11): a redesign for local vancouver restaurant, district eleven, implementing contentful as a cms
+- [district eleven restaurant website redesign (nextjs conversion)](https://github.com/kaseyvee/district-eleven): convert from completed react app to next.js app
 
-## currently focused on:
+## homework agenda 📚:
 
-- redux 🛠
-- web accessibility 🌎
+- storybook (continued learning)
+- jest (continued learning)
+- sanity (new)
+  - graphQL (new)
+- redux (new)
+- web accessibility (forever item!! always learning!!)
 
 ## don't be shy stalk me 🌝:
 
