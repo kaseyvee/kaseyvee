@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 
 ## homework agenda 📚:
 
+- gsap (new)
 - storybook (continued learning)
 - jest (continued learning)
 - sanity (new)
