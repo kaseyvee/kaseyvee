@@ -23,18 +23,12 @@ Here are some ideas to get you started:
 
 ## in the works 🛠:
 
-- [base apparel: a frontend mentor challenge](https://github.com/kaseyvee/base-apparel): coming soon landing page for an e-commerce apparel store
-  - tailwind css practice
-- [district eleven restaurant website redesign (nextjs conversion)](https://github.com/kaseyvee/district-eleven): convert from completed react app to next.js app
+- [dine restaurant: a frontend mentor challenge](https://github.com/kaseyvee/dine): restaurant marketing page
 
 ## homework agenda 📚:
 
 - gsap (new)
 - storybook (continued learning)
-- jest (continued learning)
-- sanity (new)
-  - graphQL (new)
-- redux (new)
 - web accessibility (forever item!! always learning!!)
 
 ## don't be shy stalk me 🌝:
