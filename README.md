@@ -21,16 +21,6 @@ Here are some ideas to get you started:
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-## in the works 🛠:
-
-- [dine restaurant: a frontend mentor challenge](https://github.com/kaseyvee/dine): restaurant marketing page
-
-## homework agenda 📚:
-
-- gsap (new)
-- storybook (continued learning)
-- web accessibility (forever item!! always learning!!)
-
 ## don't be shy stalk me 🌝:
 
 - personal website: https://kaseyvee.com/
